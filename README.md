@@ -11,13 +11,11 @@
 - [License](#license)
 
 ## Project Description
-Chaintech is a modern food delivery application that allows users to browse restaurants, manage their profiles, and place orders seamlessly. The application provides a user-friendly interface with a responsive design, making it accessible on both desktop and mobile devices.
+Chaintech is an application that allows users to register, login and manage there accounts. The application provides a user-friendly interface with a responsive design, making it accessible on both desktop and mobile devices.
 
 ## Features
 - User Authentication: Users can register, log in, and manage their accounts.
 - Profile Management: Users can update their profile information and password.
-- Restaurant Listings: Browse a list of available restaurants with details like location and delivery options.
-- Cart Management: Add items to the cart and view the number of items in real-time.
 - Responsive Design: Fully responsive layout that adapts to different screen sizes.
 - Navbar with Conditional Rendering: Display profile and logout buttons when the user is logged in.
 
@@ -25,8 +23,7 @@ Chaintech is a modern food delivery application that allows users to browse rest
 - **Frontend**: React.js, Tailwind CSS
 - **Routing**: React Router
 - **State Management**: React Hooks
-- **Backend**: (Specify if applicable, e.g., Node.js, Express, MongoDB, etc.)
-- **Deployment**: (Specify if applicable, e.g., Vercel, Netlify, etc.)
+- **Deployment**: (Netlify)
 
 ## Installation
 1. Clone the repository:
